@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [Instructions](instructions.md)
 * [Guide](guide.md)
-* Term lists
+* [Term lists](term-lists/README.md)
   * [materials](terms/material.md)
   * [material translation table](https://github.com/ess-dive-community/essdive-sample-id-metadata/blob/master/terms/material_translation_table.csv)
   * [object type](terms/objectType.md)
