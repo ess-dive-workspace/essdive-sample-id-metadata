@@ -2,7 +2,7 @@
 
 Here's how you can contribute to ESS-DIVE's proposed sample ID and metadata reporting format:
 
-* Want to make a change to the reporting format? Copy and paste one of the **issue templates** below and [submit a new issue](https://github.com/ess-dive-community/essdive-sample-id-metadata/issues/new).
+* Want to make a change to the reporting format? Copy and paste one of the **issue templates** below and [submit a new issue](https://github.com/ess-dive-workspace/essdive-sample-id-metadata/issues/new).
 * Have a question? Contact us at ess-dive-support@lbl.gov. 
 
 ---
@@ -16,7 +16,7 @@ Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014).
 
 ### New term
 
-Copy and paste this template into your [new issue](https://github.com/ess-dive-community/essdive-sample-id-metadata/issues/new) if you want to create a term that does not exist yet.
+Copy and paste this template into your [new issue](https://github.com/ess-dive-workspace/essdive-sample-id-metadata/issues/new) if you want to create a term that does not exist yet.
 
 ```
 ## New term
@@ -37,7 +37,7 @@ Proposed definition of the new term:
 
 ### Change term
 
-Copy and paste this template into your [new issue](https://github.com/ess-dive-community/essdive-sample-id-metadata/issues/new) if you want to make a change to a term.
+Copy and paste this template into your [new issue](https://github.com/ess-dive-workspace/essdive-sample-id-metadata/issues/new) if you want to make a change to a term.
 
 ```
 ## Change term
@@ -60,7 +60,7 @@ I suggest the following changes (leave blank whatever would not change):
 
 ### Change documentation
 
-Copy and paste this template into your [new issue](https://github.com/ess-dive-community/essdive-sample-id-metadata/issues/new) if you want to make a change to the documentation.
+Copy and paste this template into your [new issue](https://github.com/ess-dive-workspace/essdive-sample-id-metadata/issues/new) if you want to make a change to the documentation.
 
 ```
 ## Change documentation
