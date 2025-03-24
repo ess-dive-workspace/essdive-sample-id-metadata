@@ -1,8 +1,8 @@
-# ESS-DIVE Sample ID and Metadata Reporting Format (IGSN-ESS) v1.1.0
+# ESS-DIVE Sample ID and Metadata Reporting Format v1.1.1
 
 ESS-DIVE recommends registering samples for [Global Sample Numbers (IGSNs)](https://www.igsn.org/) through the [System for Earth Sample Registration (SESAR)](https://www.geosamples.org/). IGSNs are associated with standardized metadata to characterize a variety of different samples and their collection details. These sample identifiers facilitate sample discovery, tracking, and reuse; they are especially useful when sample data is shared with collaborators, sent to different labs or user facilities for analyses, or distributed in different data files, datasets, and/or publications. 
 
-ESS-DIVE has worked with our community scientists to test use of IGSNs and associated metadata in interdisciplinary Environmental Systems Science (ESS). Here we outline modified IGSN metadata guidelines to account for needs of a variety of related geological and biological samples. While generally following the IGSN core descriptive metadata schema, we provide recommendations for extending sample type terms, and connecting to related templates geared towards biodiversity (Darwin Core) and genomic (Minimum Information about any Sequence, MIxS) samples and specimens. The resulting template and recommendations are an extension of IGSN core metadata - IGSN for Environmental Systems Science (IGSN-ESS). 
+ESS-DIVE has worked with our DOE ESS scientists to test use of IGSNs and associated metadata in interdisciplinary Environmental Systems Science (ESS). Here we outline modified IGSN metadata guidelines to account for needs of a variety of related geological and biological samples. While generally following the IGSN core descriptive metadata schema, we provide recommendations for extending sample type terms, and connecting to related templates geared towards biodiversity (Darwin Core) and genomic (Minimum Information about any Sequence, MIxS) samples and specimens. The resulting template and recommendations are an extension of IGSN core metadata - IGSN for Environmental Systems Science (IGSN-ESS). 
 
 ## Getting started
 
@@ -12,8 +12,8 @@ Other documents to get started:
 - [Instructions document](instructions.md): Instructions to register samples for IGSNs through SESAR, and submit related datasets to ESS-DIVE. 
 - [Sample metadata template](sampleTemplate.xls): Download spreadsheet template with standard fields to register samples for IGSNs. 
 
-## Updates in v1.1.0  
-- This is the second release of the Sample ID and Metadata Reporting Format  
+## Updates in v1.1.1 
+In March 2025, a patch version of the Sample ID and Metadata reporting format was made to improve the overall experience with the associated reporting format documentation. Additionally, the standard reporting format keyword and standard term were added to the instructions.md file.
 
 ## File formatting requirements
 
@@ -27,7 +27,7 @@ ESS-DIVE has higher-level requirements and recommendations for documenting indiv
 
 ## How to contribute: 
 
-Want to make a change to the reporting format? [Submit a new issue](https://github.com/ess-dive-community/essdive-sample-id-metadata/issues/new/choose) and use one of several templates that we provide to: suggest a new term, modify a term, or propose changes to documentation within this repository.
+Want to make a change to the reporting format? [Submit a new issue](https://github.com/ess-dive-workspace/essdive-sample-id-metadata/issues/new/choose) and use one of several templates that we provide to: suggest a new term, modify a term, or propose changes to documentation within this repository.
 
 Have a question? Contact us at ess-dive-support [at] lbl.gov. 
 
@@ -63,7 +63,7 @@ The updated sample reporting format for interdisciplinary ESS samples contains m
 
 As outlined in the [sample metadata sources](/terms/sampleMetadata_sources.md) document, many recommended metadata additions to the IGSN guidelines/schema come from Darwin Core, and MIxS. We utilize formats for our user guides from [Darwin Core resources](https://github.com/tdwg/dwc), as well.  
 
-ESS community scientists helped test use of IGSNs, and provided critical feedback - resulting in our final recommendations. These include individuals from eight ESS projects, including: 
+ESS scientists helped test use of IGSNs, and provided critical feedback - resulting in our final recommendations. These include individuals from eight ESS projects, including: 
 - SLAC Subsurface Biogeochemical Research (SBR) Scientific Focus Area (SFA), National Accellerator Laboratory Groundwater Quality: Zach Perzan and Kristin Boye
 - Lawrence Livermore National Lab SBR SFA, Subsurface Biogeochemistry of Actinides: Nancy Merino and Mavrik Zavarin
 - Pacific Northwest National Lab SBR SFA, Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS): Amy Goldman and James Stegen
