@@ -23,7 +23,7 @@ When sending a sample to multiple labs for a variety of analyses that need to be
 
 ## Standardize Sample Metadata
 
-Complete the [sample template](https://github.com/ess-dive-community/essdive-sample-id-metadata/blob/master/sampleTemplate.xls) for ESS-DIVE to provide information about samples that will help make them more discoverable and usable. General fields to describe sample types and locations are required where relevant. Guidance on specific fields were originally developed by SESAR, and modified in some cases by ESS-DIVE. See our [sample metadata guide](https://github.com/ess-dive-community/essdive-sample-id-metadata/blob/master/guide.md) for descriptions and instructions for each metadata field.
+Complete the [sample template](sampleTemplate.xls) for ESS-DIVE to provide information about samples that will help make them more discoverable and usable. General fields to describe sample types and locations are required where relevant. Guidance on specific fields were originally developed by SESAR, and modified in some cases by ESS-DIVE. See our [sample metadata guide](guide.md) for descriptions and instructions for each metadata field.
 
 ## When do you need IGSNs
 
@@ -53,8 +53,9 @@ Here are instructions on how to register your ESS samples for IGSNs through SESA
 
 7. When the relevant sample analyses are completed for a data package, submit your sample metadata and data to ESS-DIVE. ESS-DIVE will be developing tools to enable advanced search for samples using IGSNs, and linking samples to other related samples, datasets and publications.
 8. Update your sample metadata when datasets are published by adding links to related datasets and publications, as a “Related URL” along with a “URL Description”.
+9. Within the FLMD file, the [standard](https://github.com/ess-dive-workspace/essdive-file-level-metadata/blob/main/flmd_quick_guide.md#standard) for each sample ID and metadata reporting format related file should be **ESS-DIVE Sample v1**. If submitting your dataset to ESS-DIVE, include the keyword **ESS-DIVE Sample ID and Metadata Reporting Format** in the package-level metadata.
 
 ## Provide Feedback
 
-We will continue to work with the ESS community to improve the representation of ESS samples in standard sample metadata relevant across a variety of biological and geological samples. Please [contribute](contribute.md) by submiting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of registering samples for IGSNs, specific metadata fields or controlled vocabulary terms.
+We will continue to work with ESS researchers to improve the representation of ESS samples in standard sample metadata relevant across a variety of biological and geological samples. Please [contribute](contribute.md) by submiting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of registering samples for IGSNs, specific metadata fields or controlled vocabulary terms.
 #
