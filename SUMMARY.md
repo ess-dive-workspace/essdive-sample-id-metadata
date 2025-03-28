@@ -11,6 +11,6 @@
   * [sample metadata translation table](terms/sampleMetadataTranslationTable.csv)
   * [sample metadata sources](terms/sampleMetadata_sources.md)
   * [units](terms/units.md)
-* [Template](terms/sampleMetadataTranslationTable.xlsx)
+* [Template](sampleTemplate.xls)
 * [Contribute](contribute.md)
 * [License](LICENSE.md)
